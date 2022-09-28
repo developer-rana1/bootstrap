@@ -1,0 +1,170 @@
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-brand img {
+    width: 50%;
+}
+
+.social-icons {
+    margin-top: 250px;
+}
+.icon-holder i {
+    display: block;
+    margin: 10px 0;
+}
+
+.heading-txt {
+    padding-top: 250px;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.hero-image img {
+    width: 70%;
+}
+
+.about-section {
+    padding: 100px 0;
+}
+
+.about-section h2 {
+    font-size: 38px;
+    font-weight: 700;
+}
+
+.about-section hr {
+    width: 10%;
+    border: 1px solid rgb(5, 51, 4);
+    margin: 0 auto;
+}
+
+.bg-color {
+    width: 90%;
+    background: green;
+    padding: 20px 10px;
+    border-radius: 7px;
+}
+
+.bg-color img {
+    width: 96%;
+    margin-left: -20px;
+}
+
+.middle-content h3 {
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+
+.service-box {
+    border: 2px solid rgba(63, 60, 60, 0.096);
+    padding: 30px 20px;
+    border-radius: 10px;
+}
+
+.service-box img {
+    width: 30%;
+}
+
+.working-process {
+    background: url(../images/web-developer-bg-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 150px 0;
+
+}
+
+.working-process i {
+    font-size: 32px;
+    color: #fff;
+    padding-top: 50px;
+}
+.working-process h3 {
+    font-size: 48px;
+    font-weight: 700;
+    color: #fff;
+}
+.working-process p {
+    width: 60%;
+    margin: 0 auto;
+    color: #ddd;
+    padding-bottom: 70px;
+}
+
+.experience {
+    padding: 100px 0;
+}
+
+.experience-card {
+    border: 2px solid #dddd;
+    padding: 50px 30px;
+    border-radius: 10px;
+}
+
+.experience-card span {
+    font-size: 18px;
+    color: green;
+    padding: 20px 0;
+    display: block;
+}
+
+.experience-card p {
+    padding-bottom: 50px;
+}
+
+.portfolio {
+    padding: 100px 0;
+}
+.portfolio img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.testimonial-card {
+    padding: 20px;
+}
+.testimonial-card i {
+    font-size: 32px;
+    color: green;
+    display: block;
+    margin-bottom: 30px;
+
+}
+.testimonial-card img {
+    width: 20%;
+    border-radius: 50%;
+    border: 2px solid green;
+}
+.testimonial-card p {
+    padding-top: 30px;
+}
+.testimonial-card h4 {
+    font-weight: 700;
+    color: gray;
+}
+
+.footer {
+    background: #14261C;
+    padding: 100px 0;
+}
+
+.footer-social-icon {
+    display: inline-flex;
+    padding-top: 30px;
+}
+
+.footer-social-icon i {
+    color: #fff;
+    margin-right: 15px;
+    font-size: 20px;
+}
+
+.footer a {
+    padding-top: 30px;
+    display: block;
+    text-decoration: none;
+    color: #fff;
+}
